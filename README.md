@@ -1,4 +1,4 @@
-# CodeAlpha Image Gallery
+# CodeAlpha Image Gallery Frontend Task1
 
 ## 📌 Project Overview
 This is a responsive Image Gallery built using HTML, CSS, and JavaScript. It allows users to browse images with an attractive layout and interactive features.
